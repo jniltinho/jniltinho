@@ -6,7 +6,7 @@
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/curso-de-gitlab/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jniltinho)
 
-<div align="center">
+<div>
   <a href="https://github.com/jniltinho">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jniltinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jniltinho&layout=compact&langs_count=10&theme=dark"/>
