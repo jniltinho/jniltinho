@@ -6,7 +6,6 @@
 </div>
   
 ## Tecnologias que eu uso no meu dia
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="PERL" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
