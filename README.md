@@ -6,12 +6,6 @@
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/curso-de-gitlab/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jniltinho)
 
-<div>
-  <a href="https://github.com/jniltinho">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jniltinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jniltinho&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
 ### Contribution Chart
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jniltinho/jniltinho/output/github-snake-dark.svg" />
@@ -42,7 +36,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
  
-![Snake animation](https://github.com/jniltinho/jniltinho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jniltinho/jniltinho/output/github-snake-dark.svg)
 
 
 ## Tech Stack:
