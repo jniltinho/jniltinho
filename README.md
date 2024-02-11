@@ -36,7 +36,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
  
-![Snake animation](https://github.com/jniltinho/jniltinho/output/github-snake-dark.svg)
+![Snake animation](https://github.com/jniltinho/jniltinho/blob/output/github-snake-dark.svg)
 
 
 ## Tech Stack:
