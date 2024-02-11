@@ -12,6 +12,13 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jniltinho&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
+### Contribution Chart
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jniltinho/jniltinho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jniltinho/jniltinho/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## Languages and Tools:
 <p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
