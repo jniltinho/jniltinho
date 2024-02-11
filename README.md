@@ -34,12 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jniltinho/jniltinho/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-
-## Tech Stack:
-<div style="display: inline_block">
-    <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    <img align="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>  
